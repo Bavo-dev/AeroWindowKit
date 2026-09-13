@@ -1,0 +1,33 @@
+{
+  "name": "com.bavodev.aerowindowkit",
+  "version": "1.1.0",
+  "displayName": "AeroWindowKit",
+  "description": "Desktop-style draggable, resizable, snappable windows with focus management, maximize/restore, minimize-to-taskbar, and optional layout persistence for Unity uGUI.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Bavo-dev",
+    "url": "https://github.com/Bavo-dev"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "ui",
+    "window",
+    "desktop",
+    "taskbar",
+    "drag",
+    "resize",
+    "snap",
+    "layout",
+    "ugui"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Demo Notes",
+      "description": "Instructions for creating the built-in demo UI.",
+      "path": "Samples~/BasicDemo"
+    }
+  ]
+}
